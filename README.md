@@ -1,2 +1,2 @@
 # ac1-aula1
-First touch with assembly 
+First contact with assembly 
